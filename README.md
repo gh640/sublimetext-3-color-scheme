@@ -5,8 +5,43 @@ This is a sample color scheme `.sublime-color-scheme` for Sublime Text 3.
 
 ## Files in this repository
 
+There're 2 `.sublime-color-scheme` files in this repository.
+
 - `template.sublime-color-scheme` is an empty template without any concrete setting values.
 - `sample.sublime-color-scheme` is a basic sample with concrete setting values.
+
+These have the following set of scopes.
+
+- `entity.name`
+- `entity.other.inherited-class`
+- `entity.name.section`
+- `entity.name.tag`
+- `entity.other.attribute-name`
+- `variable`
+- `variable.language`
+- `variable.parameter`
+- `variable.function`
+- `constant`
+- `constant.numeric`
+- `constant.language`
+- `constant.character.escape`
+- `storage.type`
+- `storage.modifier`
+- `support`
+- `keyword`
+- `keyword.control`
+- `keyword.operator`
+- `string`
+- `comment`
+- `invalid`
+- `invalid.deprecated`
+
+These scopes are recommended in the official documentation.
+
+- [Usage in Color Schemes | Scope Naming – Sublime Text 3 Documentation](http://www.sublimetext.com/docs/3/scope_naming.html#color_schemes)
+
+
+## Usage
 
 You can try `sample.sublime-color-scheme` with the following steps.
 
