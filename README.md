@@ -18,7 +18,7 @@ You can try `sample.sublime-color-scheme` with the following steps.
 
 ## Issues
 
-If you find anything wrong with this repository, feel free to [file an issue](issues).
+If you find anything wrong with this repository, feel free to [file an issue](/gh640/sublimetext-3-color-scheme/issues).
 
 
 ## References
