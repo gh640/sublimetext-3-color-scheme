@@ -1,0 +1,202 @@
+{
+  "name": "A sample color scheme for Sublime Text 3",
+  "globals": {
+    "background": "#131313",
+    "foreground": "#ccc",
+    "caret": "#ccc",
+    "line_highlight": "#223",
+    "misspelling": "#9c9",
+    "fold_marker": "#9c9",
+    "minimap_border": "#ccc",
+    "accent": "#9c9",
+    "popup_css": "",
+    "phantom_css": "",
+    "gutter": "#181818",
+    "gutter_foreground": "#666",
+    "selection": "#ccc",
+    "selection_foreground": "#131313",
+    "selection_border": "#999",
+    "selection_border_width": "2",
+    "inactive_selection": "#999",
+    "inactive_selection_foreground": "#f44",
+    "selection_corner_style": "cut",
+    "selection_corner_radius": "2",
+    "highlight": "#6bb",
+    "find_highlight": "#181818",
+    "find_highlight_foreground": "#fff",
+    "guide": "#666",
+    "active_guide": "#999",
+    "stack_guide": "",
+    "brackets_options": "underline",
+    "brackets_foreground": "",
+    "bracket_contents_options": "underline squiggly_underline",
+    "bracket_contents_foreground": "",
+    "tags_options": "squiggly_underline",
+    "tags_foreground": "",
+    "shadow": "#000",
+    "shadow_width": "32"
+  },
+  "rules": [
+    {
+      "scope": "entity.name",
+      "foreground": "gold",
+      "background": "",
+      "selection_foreground": "",
+      "font_style": ""
+    },
+    {
+      "scope": "entity.other.inherited-class",
+      "foreground": "goldenrod",
+      "background": "",
+      "selection_foreground": "",
+      "font_style": ""
+    },
+    {
+      "scope": "entity.name.section",
+      "foreground": "mediumseagreen",
+      "background": "",
+      "selection_foreground": "",
+      "font_style": ""
+    },
+    {
+      "scope": "entity.name.tag",
+      "foreground": "tan",
+      "background": "",
+      "selection_foreground": "",
+      "font_style": ""
+    },
+    {
+      "scope": "entity.other.attribute-name",
+      "foreground": "thistle",
+      "background": "",
+      "selection_foreground": "",
+      "font_style": ""
+    },
+    {
+      "scope": "variable",
+      "foreground": ["fuchsia", "crimson"],
+      "background": "",
+      "selection_foreground": "",
+      "font_style": ""
+    },
+    {
+      "scope": "variable.language",
+      "foreground": "lightseagreen",
+      "background": "",
+      "selection_foreground": "",
+      "font_style": ""
+    },
+    {
+      "scope": "variable.parameter",
+      "foreground": "lightseagreen",
+      "background": "",
+      "selection_foreground": "",
+      "font_style": ""
+    },
+    {
+      "scope": "variable.function",
+      "foreground": "seagreen",
+      "background": "",
+      "selection_foreground": "",
+      "font_style": ""
+    },
+    {
+      "scope": "constant",
+      "foreground": "lightslategrey",
+      "background": "",
+      "selection_foreground": "",
+      "font_style": ""
+    },
+    {
+      "scope": "constant.numeric",
+      "foreground": "",
+      "background": "",
+      "selection_foreground": "",
+      "font_style": ""
+    },
+    {
+      "scope": "constant.language",
+      "foreground": "",
+      "background": "",
+      "selection_foreground": "",
+      "font_style": ""
+    },
+    {
+      "scope": "constant.character.escape",
+      "foreground": "",
+      "background": "",
+      "selection_foreground": "",
+      "font_style": ""
+    },
+    {
+      "scope": "storage.type",
+      "foreground": "mediumaquamarine",
+      "background": "",
+      "selection_foreground": "",
+      "font_style": ""
+    },
+    {
+      "scope": "storage.modifier",
+      "foreground": "turquoise",
+      "background": "",
+      "selection_foreground": "",
+      "font_style": ""
+    },
+    {
+      "scope": "support",
+      "foreground": "",
+      "background": "",
+      "selection_foreground": "",
+      "font_style": ""
+    },
+    {
+      "scope": "keyword",
+      "foreground": "goldenrod",
+      "background": "",
+      "selection_foreground": "",
+      "font_style": ""
+    },
+    {
+      "scope": "keyword.control",
+      "foreground": "goldenrod",
+      "background": "",
+      "selection_foreground": "",
+      "font_style": ""
+    },
+    {
+      "scope": "keyword.operator",
+      "foreground": "goldenrod",
+      "background": "",
+      "selection_foreground": "",
+      "font_style": ""
+    },
+    {
+      "scope": "string",
+      "foreground": "chocolate",
+      "background": "",
+      "selection_foreground": "",
+      "font_style": ""
+    },
+    {
+      "scope": "comment",
+      "foreground": "dimgrey",
+      "background": "",
+      "selection_foreground": "",
+      "font_style": ""
+    },
+    {
+      "scope": "invalid",
+      "foreground": "hotpink",
+      "background": "",
+      "selection_foreground": "",
+      "font_style": "bold"
+    },
+    {
+      "scope": "invalid.deprecated",
+      "foreground": "hotpink",
+      "background": "",
+      "selection_foreground": "",
+      "font_style": "italic"
+    }
+  ]
+}
