@@ -16,8 +16,6 @@ You can try `sample.sublime-color-scheme` with the following steps.
 3. Sublime Text automatically recognises color scheme files and just select `sample` as your color scheme.
 
 
-
-
 ## References
 
 For more details of `.sublime-color-scheme`, see the official docs.
