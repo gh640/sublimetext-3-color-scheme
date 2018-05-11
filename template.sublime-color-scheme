@@ -1,0 +1,202 @@
+{
+  "name": "",
+  "globals": {
+    "background": "",
+    "foreground": "",
+    "caret": "",
+    "line_highlight": "",
+    "misspelling": "",
+    "fold_marker": "",
+    "minimap_border": "",
+    "accent": "",
+    "popup_css": "",
+    "phantom_css": "",
+    "gutter": "",
+    "gutter_foreground": "",
+    "selection": "",
+    "selection_foreground": "",
+    "selection_border": "",
+    "selection_border_width": "",
+    "inactive_selection": "",
+    "inactive_selection_foreground": "",
+    "selection_corner_style": "",
+    "selection_corner_radius": "",
+    "highlight": "",
+    "find_highlight": "",
+    "find_highlight_foreground": "",
+    "guide": "",
+    "active_guide": "",
+    "stack_guide": "",
+    "brackets_options": "",
+    "brackets_foreground": "",
+    "bracket_contents_options": "",
+    "bracket_contents_foreground": "",
+    "tags_options": "",
+    "tags_foreground": "",
+    "shadow": "",
+    "shadow_width": ""
+  },
+  "rules": [
+    {
+      "scope": "entity.name",
+      "foreground": "",
+      "background": "",
+      "selection_foreground": "",
+      "font_style": ""
+    },
+    {
+      "scope": "entity.other.inherited-class",
+      "foreground": "",
+      "background": "",
+      "selection_foreground": "",
+      "font_style": ""
+    },
+    {
+      "scope": "entity.name.section",
+      "foreground": "",
+      "background": "",
+      "selection_foreground": "",
+      "font_style": ""
+    },
+    {
+      "scope": "entity.name.tag",
+      "foreground": "",
+      "background": "",
+      "selection_foreground": "",
+      "font_style": ""
+    },
+    {
+      "scope": "entity.other.attribute-name",
+      "foreground": "",
+      "background": "",
+      "selection_foreground": "",
+      "font_style": ""
+    },
+    {
+      "scope": "variable",
+      "foreground": "",
+      "background": "",
+      "selection_foreground": "",
+      "font_style": ""
+    },
+    {
+      "scope": "variable.language",
+      "foreground": "",
+      "background": "",
+      "selection_foreground": "",
+      "font_style": ""
+    },
+    {
+      "scope": "variable.parameter",
+      "foreground": "",
+      "background": "",
+      "selection_foreground": "",
+      "font_style": ""
+    },
+    {
+      "scope": "variable.function",
+      "foreground": "",
+      "background": "",
+      "selection_foreground": "",
+      "font_style": ""
+    },
+    {
+      "scope": "constant",
+      "foreground": "",
+      "background": "",
+      "selection_foreground": "",
+      "font_style": ""
+    },
+    {
+      "scope": "constant.numeric",
+      "foreground": "",
+      "background": "",
+      "selection_foreground": "",
+      "font_style": ""
+    },
+    {
+      "scope": "constant.language",
+      "foreground": "",
+      "background": "",
+      "selection_foreground": "",
+      "font_style": ""
+    },
+    {
+      "scope": "constant.character.escape",
+      "foreground": "",
+      "background": "",
+      "selection_foreground": "",
+      "font_style": ""
+    },
+    {
+      "scope": "storage.type",
+      "foreground": "",
+      "background": "",
+      "selection_foreground": "",
+      "font_style": ""
+    },
+    {
+      "scope": "storage.modifier",
+      "foreground": "",
+      "background": "",
+      "selection_foreground": "",
+      "font_style": ""
+    },
+    {
+      "scope": "support",
+      "foreground": "",
+      "background": "",
+      "selection_foreground": "",
+      "font_style": ""
+    },
+    {
+      "scope": "keyword",
+      "foreground": "",
+      "background": "",
+      "selection_foreground": "",
+      "font_style": ""
+    },
+    {
+      "scope": "keyword.control",
+      "foreground": "",
+      "background": "",
+      "selection_foreground": "",
+      "font_style": ""
+    },
+    {
+      "scope": "keyword.operator",
+      "foreground": "",
+      "background": "",
+      "selection_foreground": "",
+      "font_style": ""
+    },
+    {
+      "scope": "string",
+      "foreground": "",
+      "background": "",
+      "selection_foreground": "",
+      "font_style": ""
+    },
+    {
+      "scope": "comment",
+      "foreground": "",
+      "background": "",
+      "selection_foreground": "",
+      "font_style": ""
+    },
+    {
+      "scope": "invalid",
+      "foreground": "",
+      "background": "",
+      "selection_foreground": "",
+      "font_style": ""
+    },
+    {
+      "scope": "invalid.deprecated",
+      "foreground": "",
+      "background": "",
+      "selection_foreground": "",
+      "font_style": ""
+    }
+  ]
+}
